@@ -5,7 +5,7 @@
     <ignored path="JobPortalBDDExample.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="$PROJECT_DIR$/.idea/compiler.xml" changelist="70b60a97-184a-4091-bc97-ca8d17c30f4d" time="1407146817212" ignored="false" />
-    <file path="$PROJECT_DIR$/.idea/workspace.xml" changelist="70b60a97-184a-4091-bc97-ca8d17c30f4d" time="1407150347094" ignored="false" />
+    <file path="$PROJECT_DIR$/.idea/workspace.xml" changelist="70b60a97-184a-4091-bc97-ca8d17c30f4d" time="1407150353780" ignored="false" />
     <file path="/ProfileSearch.feature" changelist="70b60a97-184a-4091-bc97-ca8d17c30f4d" time="1407149922132" ignored="false" />
     <file path="/ProfileUpload.feature" changelist="70b60a97-184a-4091-bc97-ca8d17c30f4d" time="1407150335543" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -78,7 +78,7 @@
         </entry>
       </file>
       <file leaf-file-name="ProfileSearch.feature" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/ProfileSearch.feature">
+        <entry file="file://$PROJECT_DIR$/src/test/java/features/ProfileSearch.feature">
           <provider selected="true" editor-type-id="text-editor">
             <state line="52" column="46" selection-start="1909" selection-end="1909" vertical-scroll-proportion="1.3043479">
               <folding />
@@ -87,7 +87,7 @@
         </entry>
       </file>
       <file leaf-file-name="ProfileUpload.feature" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/ProfileUpload.feature">
+        <entry file="file://$PROJECT_DIR$/src/test/java/features/ProfileUpload.feature">
           <provider selected="true" editor-type-id="text-editor">
             <state line="0" column="23" selection-start="23" selection-end="23" vertical-scroll-proportion="0.0">
               <folding />
@@ -96,7 +96,7 @@
         </entry>
       </file>
       <file leaf-file-name="ProfileCreate.feature" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/ProfileCreate.feature">
+        <entry file="file://$PROJECT_DIR$/src/test/java/features/ProfileCreate.feature">
           <provider selected="true" editor-type-id="text-editor">
             <state line="7" column="41" selection-start="253" selection-end="253" vertical-scroll-proportion="0.0">
               <folding />
@@ -201,6 +201,10 @@
               <option name="myItemId" value="java" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="features" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -227,6 +231,11 @@
     <property name="MemberChooser.showClasses" value="true" />
     <property name="GoToClass.includeLibraries" value="false" />
     <property name="MemberChooser.copyJavadoc" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/test/java/features" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
@@ -440,21 +449,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/ProfileCreate.feature">
+    <entry file="file://$PROJECT_DIR$/src/test/java/features/ProfileCreate.feature">
       <provider selected="true" editor-type-id="text-editor">
         <state line="7" column="41" selection-start="253" selection-end="253" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/ProfileUpload.feature">
+    <entry file="file://$PROJECT_DIR$/src/test/java/features/ProfileUpload.feature">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="23" selection-start="23" selection-end="23" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/ProfileSearch.feature">
+    <entry file="file://$PROJECT_DIR$/src/test/java/features/ProfileSearch.feature">
       <provider selected="true" editor-type-id="text-editor">
         <state line="52" column="46" selection-start="1909" selection-end="1909" vertical-scroll-proportion="1.3043479">
           <folding />
